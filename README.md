@@ -1,4 +1,4 @@
-# bee-box-h5
+# vue国际化实现
 
 ## Project setup
 ```
